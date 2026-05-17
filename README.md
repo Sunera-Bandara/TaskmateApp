@@ -22,5 +22,14 @@ Taskmate is a sleek, lightweight task management application for Android designe
 
 ## 📸 Screenshots
 
-| Home Screen | Add Task | Developer Info |
+| Home Screen |
 
+<img width="360" height="781" alt="Screenshot 2026-05-18 001157" src="https://github.com/user-attachments/assets/15a58d79-0dcb-455a-8a60-86c80b931909" />
+
+| Add Task |
+
+<img width="357" height="781" alt="image" src="https://github.com/user-attachments/assets/3d1b7c20-77bb-4247-b765-433f1b2a6975" />
+
+| Developer Info |
+
+<img width="356" height="776" alt="image" src="https://github.com/user-attachments/assets/75c957f6-ee9b-4960-9183-721f9d60c493" />
