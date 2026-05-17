@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D6E4FF</color>
+    <color name="surface">#F8FAFF</color>
+    <color name="surface_container">#E8F0FE</color>
+    <color name="secondary">#1976D2</color>
+    <color name="outline">#74777F</color>
+
+    <color name="on_surface">#1A1C1E</color>
+    <color name="on_surface_variant">#44474F</color>
+    <color name="outline_variant">#C4C6D0</color>
+    <color name="error">#B3261E</color>
+    <color name="success">#2E7D32</color>
+    <color name="blue_grey_secondary">#455A64</color>
+    <color name="scrim">#52000000</color> <!-- rgba(0,0,0,0.32) is approx #52000000 -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
